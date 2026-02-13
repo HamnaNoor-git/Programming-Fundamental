@@ -19,8 +19,6 @@ cout <<endl<< "Enter y to start maths exercise: ";
 cin>>tell;
 while(tell=='y' || tell=='Y')
 {
-
-	
 cout<<endl<<"For what exercise should be generated? (addition=1, subraction=2, multiplication=3, division=4): ";
 cin>>operators;
 switch(operators)
@@ -230,3 +228,4 @@ cin>>tell;
 }
 	return 0;
 }
+
