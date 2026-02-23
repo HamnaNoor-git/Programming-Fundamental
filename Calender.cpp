@@ -53,7 +53,7 @@ int main()
 	d=y%100;
 	c=y/100;
 	int q=1; //weekday for 1
-	int z=(q+(13*(m+1))/5+d+ d/4 + c/4 + 5*c)%7; //Zeller’s congruence
+	int z=(q+(13*(m+1))/5+d+ d/4 + c/4 + 5*c)%7; //Zellerâ€™s congruence
 	//z=0 saturday....................z=6 friday
 	int begining=(z+5)%7;
 	
