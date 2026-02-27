@@ -95,7 +95,7 @@ int main()
 							{
 							case 'a'://attack
 								{
-									cout<<"Choose opponent’s Pokémon (1–3).";
+									cout<<"Choose opponentâ€™s PokÃ©mon (1â€“3).";
 									cin>>opponent;
 									switch(opponent)
 									{
@@ -204,7 +204,7 @@ int main()
 							case 'a': //attack
 								{
 									
-									cout<<"Choose opponent’s Pokémon (1–3).";
+									cout<<"Choose opponentâ€™s PokÃ©mon (1â€“3).";
 									cin>>opponent;
 									switch(opponent)
 									{
@@ -312,7 +312,7 @@ int main()
 							case 'a': //attack
 								{
 									
-									cout<<"Choose opponent’s Pokémon (1–3).";
+									cout<<"Choose opponentâ€™s PokÃ©mon (1â€“3).";
 									cin>>opponent;
 									switch(opponent)
 									{
@@ -444,7 +444,7 @@ int main()
 							case 'a'://attack
 								{
 									cout<<"chose :"<<name[1][0]<<endl;
-									cout<<"Choose opponent’s Pokémon (1–3).";
+									cout<<"Choose opponentâ€™s PokÃ©mon (1â€“3).";
 									cin>>opponent;
 									switch(opponent)
 									{
@@ -544,7 +544,7 @@ int main()
 						{
 							case 'a': //attack
 								{
-									cout<<"Choose opponent’s Pokémon (1–3).";
+									cout<<"Choose opponentâ€™s PokÃ©mon (1â€“3).";
 									cin>>opponent;
 									switch(opponent)
 									{
@@ -654,7 +654,7 @@ int main()
 						{
 							case 'a': //attack
 								{
-									cout<<"Choose opponent’s Pokémon (1–3).";
+									cout<<"Choose opponentâ€™s PokÃ©mon (1â€“3).";
 									cin>>opponent;
 									switch(opponent)
 									{
@@ -772,3 +772,4 @@ int main()
 	
 	return 0;
 }
+
